@@ -5,4 +5,4 @@ an idea plugin for grails development。
 1. clone or download this project.
 2. open it by intellij idea.
 3. build it follow official doc [deploy plugin](http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/deploying_plugin.html).
-4. enjoin it,thanks.
+4. enjoy it,thanks.
