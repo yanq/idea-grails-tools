@@ -28,7 +28,12 @@
   </extensions>
 
   <actions>
-    <!-- Add your actions here -->
+    <group id="MyPlugin.GrailsTools" text="_GrailsTools" description="Grails Tools">
+      <add-to-group group-id="MainMenu" anchor="last"  />
+      <action id="GrailsTools.RelatedSymbols" class="yan.tools.RelatedSymbols" text="_Related Symbols" description="Grails Related Symbols">
+        <keyboard-shortcut keymap="$default" first-keystroke="alt shift D"/>
+      </action>
+    </group>
   </actions>
 
 </idea-plugin>
