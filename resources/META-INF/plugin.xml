@@ -2,7 +2,7 @@
   <id>yan.intellij.plugin.grailsTools</id>
   <name>Grails tools</name>
   <version>0.1</version>
-  <vendor email="37767856@qq.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="37767856@qq.com" url="https://github.com/yanq/idea-grails-tools">Jack Yan</vendor>
 
   <description><![CDATA[
       To make grails development easier.
