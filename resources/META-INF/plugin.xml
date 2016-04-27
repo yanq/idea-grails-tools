@@ -1,0 +1,34 @@
+<idea-plugin version="2">
+  <id>yan.intellij.plugin.grailsTools</id>
+  <name>Grails tools</name>
+  <version>0.1</version>
+  <vendor email="37767856@qq.com" url="http://www.yourcompany.com">YourCompany</vendor>
+
+  <description><![CDATA[
+      To make grails development easier.
+    ]]></description>
+
+  <change-notes><![CDATA[
+     V 0.1<br>
+     implement the related symbol goto for domain,controller and views.
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="141.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
